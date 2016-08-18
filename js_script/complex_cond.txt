@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+	<head>
+	</head>
+	<body>
+	  <script type="text/javascript">
+	  
+	  /* this document hold examples of javascript; variables, parameters, functions, strings, statements etc */
+		
+		
+		var first="mark";
+		var last="oswald";
+		
+		if((first=="mark")&&(last="oswald")){
+			document.write("good");
+			
+		}
+		
+		
+		
+	  </script>
+	  
+	  
+	</body>
+</html>
+	
